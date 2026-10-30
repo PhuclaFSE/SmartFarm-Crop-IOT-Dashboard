@@ -1,0 +1,8 @@
+node_modules/
+dist/
+backend/data/smartfarm.db
+backend/data/smartfarm.db-shm
+backend/data/smartfarm.db-wal
+.env
+.DS_Store
+*.log

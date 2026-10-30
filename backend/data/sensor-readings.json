@@ -1,0 +1,182 @@
+[
+  {
+    "crop_name": "Tomato",
+    "timestamp": "2026-08-05T09:00:00",
+    "soil_moisture": 42,
+    "temperature": 38,
+    "rainfall": 0,
+    "sensor_status": "Online",
+    "notes": "Dry and hot"
+  },
+  {
+    "crop_name": "Lettuce",
+    "timestamp": "2026-08-03T09:00:00",
+    "soil_moisture": 67,
+    "temperature": 23,
+    "rainfall": 0,
+    "sensor_status": "Online",
+    "notes": "Stable greenhouse reading"
+  },
+  {
+    "crop_name": "Wheat",
+    "timestamp": "2026-08-01T09:00:00",
+    "soil_moisture": 120,
+    "temperature": 25,
+    "rainfall": 0,
+    "sensor_status": "Online",
+    "notes": "Intentional invalid test"
+  },
+  {
+    "crop_name": "Maize",
+    "timestamp": "2026-08-04T09:00:00",
+    "soil_moisture": 53,
+    "temperature": 29,
+    "rainfall": 0,
+    "sensor_status": "Online",
+    "notes": "Moisture recovering"
+  },
+  {
+    "crop_name": "Tomato",
+    "timestamp": "2026-08-02T09:00:00",
+    "soil_moisture": 64,
+    "temperature": 27,
+    "rainfall": 1,
+    "sensor_status": "Online",
+    "notes": "Healthy moisture"
+  },
+  {
+    "crop_name": "Wheat",
+    "timestamp": "2026-08-04T09:00:00",
+    "soil_moisture": 49,
+    "temperature": 20,
+    "rainfall": 2,
+    "sensor_status": "Online",
+    "notes": "Normal field conditions"
+  },
+  {
+    "crop_name": "Lettuce",
+    "timestamp": "2026-08-01T09:00:00",
+    "soil_moisture": 63,
+    "temperature": 22,
+    "rainfall": 0,
+    "sensor_status": "Online",
+    "notes": "Morning reading"
+  },
+  {
+    "crop_name": "Maize",
+    "timestamp": "2026-08-02T09:00:00",
+    "soil_moisture": 61,
+    "temperature": 26,
+    "rainfall": 1,
+    "sensor_status": "Online",
+    "notes": "Healthy early reading"
+  },
+  {
+    "crop_name": "Tomato",
+    "timestamp": "2026-08-04T09:00:00",
+    "soil_moisture": 51,
+    "temperature": 36,
+    "rainfall": 0,
+    "sensor_status": "Online",
+    "notes": "Drying before latest reading"
+  },
+  {
+    "crop_name": "Lettuce",
+    "timestamp": "2026-08-05T09:00:00",
+    "soil_moisture": 70,
+    "temperature": 24,
+    "rainfall": 1,
+    "sensor_status": "Online",
+    "notes": "Healthy latest reading"
+  },
+  {
+    "crop_name": "Maize",
+    "timestamp": "2026-08-06T09:00:00",
+    "soil_moisture": 58,
+    "temperature": 27,
+    "rainfall": 0,
+    "sensor_status": "Faulty",
+    "notes": "Sensor requires inspection"
+  },
+  {
+    "crop_name": "Wheat",
+    "timestamp": "2026-08-02T09:00:00",
+    "soil_moisture": 40,
+    "temperature": 24,
+    "rainfall": 0,
+    "sensor_status": "Online",
+    "notes": "Within target range"
+  },
+  {
+    "crop_name": "Tomato",
+    "timestamp": "2026-08-01T09:00:00",
+    "soil_moisture": 72,
+    "temperature": 25,
+    "rainfall": 0,
+    "sensor_status": "Online",
+    "notes": "Healthy baseline"
+  },
+  {
+    "crop_name": "Maize",
+    "timestamp": "2026-08-05T09:00:00",
+    "soil_moisture": 56,
+    "temperature": 30,
+    "rainfall": 0,
+    "sensor_status": "Online",
+    "notes": "Stable before sensor fault"
+  },
+  {
+    "crop_name": "Lettuce",
+    "timestamp": "2026-08-02T09:00:00",
+    "soil_moisture": 82,
+    "temperature": 21,
+    "rainfall": 6,
+    "sensor_status": "Online",
+    "notes": "Wet after irrigation"
+  },
+  {
+    "crop_name": "Tomato",
+    "timestamp": "2026-08-03T09:00:00",
+    "soil_moisture": 59,
+    "temperature": 31,
+    "rainfall": 0,
+    "sensor_status": "Online",
+    "notes": "Moisture trending down"
+  },
+  {
+    "crop_name": "Wheat",
+    "timestamp": "2026-08-05T09:00:00",
+    "soil_moisture": 72,
+    "temperature": 22,
+    "rainfall": 8,
+    "sensor_status": "Online",
+    "notes": "Too wet after rainfall"
+  },
+  {
+    "crop_name": "Maize",
+    "timestamp": "2026-08-03T09:00:00",
+    "soil_moisture": 47,
+    "temperature": 32,
+    "rainfall": 0,
+    "sensor_status": "Online",
+    "notes": "Dry spell"
+  },
+  {
+    "crop_name": "Lettuce",
+    "timestamp": "2026-08-04T09:00:00",
+    "soil_moisture": 76,
+    "temperature": 26,
+    "rainfall": 0,
+    "sensor_status": "Online",
+    "notes": "Healthy and warm"
+  },
+  {
+    "crop_name": "Wheat",
+    "timestamp": "2026-08-03T09:00:00",
+    "soil_moisture": 58,
+    "temperature": 23,
+    "rainfall": 5,
+    "sensor_status": "Online",
+    "notes": "Slightly wet with rain"
+  }
+]
